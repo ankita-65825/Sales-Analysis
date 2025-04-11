@@ -1,4 +1,4 @@
-Power BI Project: Sales Dashboard
+## Power BI Project: Sales Dashboard
 Overview
 This project demonstrates the complete Power BI workflow — from data transformation to dashboard creation — using the Exercise.pbix file.
 
@@ -28,6 +28,14 @@ Enabled dynamic calculations with slicers
 
 📊 Dashboard
 Interactive visuals: bar charts, KPIs, slicers, and tooltips
+![image](https://github.com/user-attachments/assets/63ffaba9-5bc4-4b0e-b1c6-da29bdcebef2)
+
+
+![image](https://github.com/user-attachments/assets/fe9b5108-bf39-4a0e-b204-7c54dbc555a3)
+
+
+
+
 
 Clean layout with drill-through and filters for user analysis
 
